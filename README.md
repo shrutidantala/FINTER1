@@ -1,6 +1,6 @@
 <b># FINTER1<b>
 <br></br>
-Team: Shruti Dantala
+Team: Shruti
 Kaiwalya Mungase
 Drashti nagda
 Shivam Pandit
